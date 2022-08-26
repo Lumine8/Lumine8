@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Lumine8 here
 
 <!--
 **Lumine8/Lumine8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![Lumin8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumine8&show_icons=true&theme=midnight-purple)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31pjgudzn4z56d6gdwdko7ljb2y4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31pjgudzn4z56d6gdwdko7ljb2y4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)]]
+### Check out what I'm listening to 😉🎶
+
+### [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pjgudzn4z56d6gdwdko7ljb2y4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31pjgudzn4z56d6gdwdko7ljb2y4&redirect=true)
