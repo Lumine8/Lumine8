@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- Fun fact about me: I like to listen to a variety of music 🎶
+- I'm currently working on myself and maybe some projects 👨‍💻
+- Fun fact: There's no proof that apple actually fell on Newton 🍎
+
 ![Lumin8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumine8&show_icons=true&theme=midnight-purple)
 
-### Check out what I'm listening to 😉🎶
-
-### [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pjgudzn4z56d6gdwdko7ljb2y4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31pjgudzn4z56d6gdwdko7ljb2y4&redirect=true)
