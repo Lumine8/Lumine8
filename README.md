@@ -1,4 +1,4 @@
-### Hi there 👋 Lumine8 here
+# Hi there 👋 Lumine8 here
 
 <!--
 **Lumine8/Lumine8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 - I'm currently working on myself and maybe some projects 👨‍💻
 
 ![Lumin8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumine8&show_icons=true&theme=midnight-purple)
+
+## Check out my Stats: 😓 there isn't much to look at
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lumine8&theme=onedark)](https://github.com/Lumine8/github-profile-trophy)
 
