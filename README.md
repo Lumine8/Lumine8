@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ![Lumin8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumine8&show_icons=true&theme=midnight-purple)
 
 ## Check out my Stats: 😓 there isn't much to look at
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lumine8&theme=onedark)](https://github.com/Lumine8/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lumine8&theme=onedark&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/Lumine8/github-profile-trophy)
 
