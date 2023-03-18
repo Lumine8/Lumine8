@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - Fun fact: There's no actual proof that an apple fell on Newton 🍎
 
 ![Lumin8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumine8&show_icons=true&theme=midnight-purple)
+![Lumine8's Status](https://metrics.lecoq.io/insights?user=Lumine8)
 
