@@ -21,3 +21,13 @@ Here are some ideas to get you started:
 
 ![Lumin8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumine8&show_icons=true&theme=midnight-purple)
 
+name: Detailed display
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.achievements.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_achievements: yes
+  plugin_achievements_only: sponsor, maintainer, octonaut
+
+
