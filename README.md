@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - Fun fact about me: I like to listen to a variety of music 🎶
 - I'm currently working on myself and maybe some projects 👨‍💻
-- Fun fact: There's no actual proof that an apple fell on Newton 🍎
 
 ![Lumin8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumine8&show_icons=true&theme=midnight-purple)
 
