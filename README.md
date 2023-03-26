@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![Lumine8's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lumine8&theme=react-dark&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Lumine8/github-readme-activity-graph)
 
-## Check out my Stats: 😓 there isn't much to look at
+## Check out my Stats: 😓 it isn't much to look at
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lumine8&theme=discord&no-bg=true&no-frame=true)](https://github.com/Lumine8/github-profile-trophy)
 
 ## 
