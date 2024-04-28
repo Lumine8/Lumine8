@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ## Languages & Frameworks:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
+<!--
 ![Lumin8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumine8&show_icons=true&theme=midnight-purple) &nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumine8&hide_progress=true&theme=midnight-purple)](https://github.com/Lumine8/github-readme-stats)
 
 [![Lumine8's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lumine8&theme=react-dark&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Lumine8/github-readme-activity-graph)
-
+-->
 ## Check out my Stats: 😓 it isn't much to look at
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lumine8&theme=discord&no-bg=true&no-frame=true)](https://github.com/Lumine8/github-profile-trophy)
 
