@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lumine8&theme=discord&no-bg=true&no-frame=true)](https://github.com/Lumine8/github-profile-trophy)
 
 ## 
+[![](https://visitcount.itsvg.in/api?id=Lumine8&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 
