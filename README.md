@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ![Lumin8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumine8&show_icons=true&theme=midnight-purple) &nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumine8&hide_progress=true&theme=midnight-purple)](https://github.com/Lumine8/github-readme-stats)
 
 [![Lumine8's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lumine8&theme=react-dark&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Lumine8/github-readme-activity-graph)
--->
+
 ## Check out my Stats: 😓 it isn't much to look at
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lumine8&theme=discord&no-bg=true&no-frame=true)](https://github.com/Lumine8/github-profile-trophy)
-
+-->
 ## 
 [![](https://visitcount.itsvg.in/api?id=Lumine8&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 
